@@ -1,0 +1,71 @@
+
+
+h1 {
+	text-align: center;
+	background-color: #ccf2ff;
+	margin: 0;
+}
+
+body {
+	margin: 0;
+}
+
+#bigOrangeSquare {
+	background-color: orange;
+	width: 10%;
+	height: 300px;
+	margin-left: 45%;
+	margin-right: 45%;
+	margin-top:0;
+	margin-bottom: 0;
+}
+
+#top {
+	top: 40px;
+	background-color: #990000;
+}
+
+#middle {
+	top: 140px;
+	background-color: #e6b800;
+}
+
+#bottom {
+	top: 240px;
+	background-color: #009900;
+}
+
+#redButton {
+	margin-left: 32%;
+}
+
+.light {
+	border: 3px solid black;
+	width: 90px;
+	height: 90px;
+	margin-left: 46.25%;
+	border-radius: 50%;
+	position: absolute;
+}
+
+.myButton {
+	float: left;
+	border: 3px solid black;
+	width: 150px;
+	height: 40px;
+	text-align: center;
+	border-radius: 15px;
+	font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
